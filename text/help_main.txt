@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------------------
+	All commands can be entered as any case: move north / Move North / MOVE NORTH
+
+			       	       ===(Main Game)===
+
+   Return to Main Menu)-       Return to main menu by typing the 'main menu' or 'mm' command.
+	   	Example:  :>main menu  {ENTER KEY}
+		          :>mm  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Quit the Game)-  		Quit the game by typing the 'quit' or 'q' command.
+           	Example:  :>quit  {ENTER KEY}
+                          :>q  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Movement)-   		Moving room to room is done using the 'move' command.
+           	Example: :>move north  {ENTER KEY}
+		    	 :>move south  {ENTER KEY}
+		    	 :>move east  {ENTER KEY}
+		    	 :>move west  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Picking up items)-  		To pick up an item found in a room use the 'get' command.
+          	Example: :>get stimpak  {ENTER KEY}
+		    	 :>get power armor helmet  {ENTER KEY}
+		    	 :>get combat shotgun  {ENTER KEY}
+		    	 :>get fusion core  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Opening the Pip-Boy)-        Open your Pip-Boy by typing the 'pip' or 'p' command.
+		Example: :>pip  {ENTER KEY}
+			 :>p  {ENTER KEY}
+
+---------------------------------------------------------------------------------------------

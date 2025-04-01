@@ -1,0 +1,7 @@
+You move through the doorway into a dark and dingy Holding Cell.
+The cells have secure reinforced bars with raggedy cots and small sinks mounted to the walls.
+There's a skeleton in a tattered vault 3 uniform stretched the floor of a cell. 
+Tile floors, a small office desk, and holding benches sit outside the cells.
+
+There is a cabinet against the left wall.
+The inside is mostly empty but there is a old box of Ammo in the bottom.

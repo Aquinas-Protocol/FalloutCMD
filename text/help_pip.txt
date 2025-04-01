@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------
+	All commands can be entered as any case: move north / Move North / MOVE NORTH
+
+			       	       ===(Pip-Boy)===
+  
+  View All Items)-           Open your Inventory and view Items by typing the 'i' command.
+ 		Example: :>i  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Quest Menu)-               Open Quest menu to view objectives by typing the 'q' command.
+		Example: :>q  {ENTER KEY}
+
+                                  ~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Close Pip-Boy)-            Close the Pip-Boy menu by typing the 'c' command.
+		Example: :>c  {ENTER KEY}
+
+---------------------------------------------------------------------------------------------
