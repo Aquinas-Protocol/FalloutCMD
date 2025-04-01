@@ -1,0 +1,6 @@
+|   Type commands to play!:           ===( Controls )===                                       |
+|                                                                                              |
+| ('main menu'/'mm' for main menu)  ('quit' / 'q' to quit)  ('help'/'h' for help/instructions) |
+ \  ('pip' or 'p' to view Pip-Boy)  ('move' eg 'move north' to move)  ('get' to pickup item)  /
+  \__________________________________________________________________________________________/
+  
