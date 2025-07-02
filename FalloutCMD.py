@@ -3,7 +3,7 @@ import sys
 import random
 
 """
-Autor: *redacted for Aquinas-Protocol*
+Autor: Dylan Palumbo
 Text Based Fallout Inspired Game
 Written for Intro to Scripting Class
 Requires: 
